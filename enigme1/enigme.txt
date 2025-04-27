@@ -1,0 +1,89 @@
+[Question]
+Code guides me no brain, no past. What am I?
+[Options]
+Artificial Intelligence
+A dream
+A robot vaccum
+[Correct]
+1
+
+[Question]
+What is the 3-digit code to open the drawer?
+[Options]
+235
+523
+325
+[Correct]
+3
+
+[Question]
+Who vanished in 2055?
+[Options]
+A detective
+The professor
+A robot
+[Correct]
+2
+
+[Question]
+I'm the AI who warned John. My name is?
+[Options]
+Siri
+Elara
+Alexa
+[Correct]
+2
+
+[Question]
+Ruined city stuck in time?
+[Options]
+Shattered City
+New York
+Paris
+[Correct]
+1
+
+[Question]
+Gas planet with floating forests?
+[Options]
+Mars
+Zeus
+Saturn
+[Correct]
+2
+
+[Question]
+Gear-filled dimension?
+[Options]
+Clockwork Abyss
+Factory
+Museum
+[Correct]
+1
+
+[Question]
+What opens dimensional doors?
+[Options]
+Portal device
+Phone
+Book
+[Correct]
+1
+
+[Question]
+Who wants to control all worlds?
+[Options]
+Arthur
+Elara
+John
+[Correct]
+2
+
+[Question]
+How to defeat Elara?
+[Options]
+Dimensional energy
+Gun
+Virus
+[Correct]
+1
